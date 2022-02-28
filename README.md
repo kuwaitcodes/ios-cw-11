@@ -17,7 +17,7 @@
 
 
 
-```bash
+```swift
 print("1 x 10 is \(1 * 10)")
 print("2 x 10 is \(2 * 10)")
 print("3 x 10 is \(3 * 10)")
@@ -36,7 +36,7 @@ print("10 x 10 is \(10 * 10)")
 
 
 
-```
+```swift
 for i in 1...10 {
     print("\(i) x 10 is \(i * 10)")
 }
